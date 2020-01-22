@@ -1,0 +1,4 @@
+{
+    "db" : "mongodb://psngsra:sopa1234@ds043987.mlab.com:43987/gstefile",
+    "port" : "3000"
+}
